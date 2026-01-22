@@ -5,6 +5,7 @@ print("")
 
 print("Enter 1 for addition")
 print("Enter 2 for subtraction")
+print("")
 choice = int(input("What do operation do you want to do?"))
 
 if choice == 1:
