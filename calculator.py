@@ -14,7 +14,7 @@ if choice == 1:
   num1 = int(input("Enter the first number"))
   num2 = int(input("Enter the second number"))
   print(num1 + num2)
-if choice == 2:
+elif choice == 2:
   print("Subtraction")
   print("")
   num1 = int(input("Enter the first number"))
